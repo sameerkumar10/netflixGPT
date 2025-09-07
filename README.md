@@ -85,6 +85,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Create SignUp User Account
 - Implement Sign In user Api
 - Created Redux Store with userSlice 
+- Implemented Sign out 
+- Update Profile
+- Fetch Movies From TMDB 
 
 
 
