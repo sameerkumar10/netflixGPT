@@ -32,7 +32,7 @@ const Header = () => {
                     photoURL: photoURL
                 }));
                 navigate('/browse');
-                console.log(user);
+                // console.log(user);
 
                 // ...
             } else {
